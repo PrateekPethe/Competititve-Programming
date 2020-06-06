@@ -1,3 +1,4 @@
+#Chef and Price Control. Link - https://www.codechef.com/JUNE20B/problems/PRICECON/
 t = int(input())
 if t >= 1 and t <=100:
     for i in range(t):
