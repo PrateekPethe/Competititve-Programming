@@ -1,3 +1,4 @@
+//Chef and String. Link - https://www.codechef.com/JUNE20B/problems/XYSTR/
 #include <iostream>
 #define rli long long int
 #define MOD 1000000007
